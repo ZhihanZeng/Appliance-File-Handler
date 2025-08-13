@@ -16,6 +16,7 @@ This project implements an `Appliance` class in Java that models an appliance wi
 - Implements object-oriented principles and inheritance
   - Divides into 3 seperate classes each with it's unique properties
 - Reads and parses serial numbers from textfiles
+  - Stores data into dynamic data structures using TreeMap
 - Displayed on a GUI using Swing toolkit
   - Combines both JFrame and JMenu to create an interactive GUI
    
