@@ -26,5 +26,5 @@ This project implements an `Appliance` class in Java that models an appliance wi
 Appliance fridge = new Appliance("RA12345678901");
 System.out.println(fridge); // Output: [|||RA12345678901|||]
 Microwave microwave = new Microwave("MD2314567889", 38.9, 90);
-System.out.println(microwave.getprice()); // Output: 38.9
+System.out.println(microwave.getPrice()); // Output: 38.9
 System.out.println(microwave.getWatts()); // Output : 90
